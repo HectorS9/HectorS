@@ -8,7 +8,7 @@ Soy estudiante de la Facultad de Ciencias.
 - Hacer ejercicio
 
 
-**## Me gusta mucho**
+**Me gusta mucho**
 - El color negro
 - Los perros
 - Jugar shooters
